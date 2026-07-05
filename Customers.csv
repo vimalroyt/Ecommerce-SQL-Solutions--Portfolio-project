@@ -1,0 +1,501 @@
+﻿Customer_ID,Customer_Name,Gender,Age,City,State,Join_Date,Customer_Segment,Acquisition_Channel
+C0001,Customer 1,Male,26,Delhi,delhi,2025-04-24 0:00:00,Regular,Organic
+C0002,Customer 2,Female,19,Delhi,Delhi,2023-03-28 0:00:00,Regular,Google Ads
+C0003,Customer 3,Male,45,Delhi,Delhi,2023-03-17 0:00:00,Regular,Organic
+C0004,Customer 4,Male,40,Delhi,Delhi,2024-07-29 0:00:00,Premium,Organic
+C0005,Customer 5,Female,36,Bengaluru,Karnataka,2025-03-28 0:00:00,New,Organic
+C0006,Customer 6,Male,23,Delhi,Delhi,2024-02-18 0:00:00,Regular,Referral
+C0007,Customer 7,Female,40,Gurugram,Haryana,2025-10-31 0:00:00,Premium,Organic
+C0008,Customer 8,Male,52,Pune,Maharashtra,2024-08-04 0:00:00,Regular,Google Ads
+C0009,Customer 9,Male,38,Pune,Maharashtra,2023-04-15 0:00:00,New,Google Ads
+C0010,Customer 10,Female,31,Bengaluru,Karnataka,2023-03-12 0:00:00,Premium,Referral
+C0011,Customer 11,Female,59,Bengaluru,Karnataka,2022-10-13 0:00:00,New,Google Ads
+C0012,Customer 12,Male,55,Pune,Maharashtra,2022-10-11 0:00:00,Premium,Referral
+C0013,Customer 13,Female,27,Delhi,Delhi,2025-05-06 0:00:00,New,Referral
+C0014,Customer 14,Male,47,Bengaluru,Karnataka,2025-10-25 0:00:00,Premium,Organic
+C0015,Customer 15,Female,59,Pune,Maharashtra,2024-06-09 0:00:00,New,Referral
+C0016,Customer 16,Male,34,Delhi,Delhi,2024-11-05 0:00:00,New,Google Ads
+C0017,Customer 17,Male,27,Pune,Maharashtra,2025-01-09 0:00:00,Premium,Organic
+C0018,Customer 18,Female,19,Pune,Maharashtra,2023-09-22 0:00:00,New,Organic
+C0019,Customer 19,Female,23,Noida,Uttar Pradesh,2022-05-22 0:00:00,Premium,Facebook Ads
+C0020,Customer 20,Female,53,Noida,Uttar Pradesh,2023-03-10 0:00:00,Premium,Facebook Ads
+C0021,Customer 21,Female,60,Gurugram,Haryana,2024-11-25 0:00:00,Regular,Organic
+C0022,Customer 22,Male,39,Noida,Uttar Pradesh,2025-04-20 0:00:00,New,Organic
+C0023,Customer 23,Female,22,Delhi,Delhi,2022-05-26 0:00:00,Premium,Facebook Ads
+C0024,Customer 24,Female,31,Gurugram,Haryana,2023-05-13 0:00:00,Regular,Referral
+C0025,Customer 25,Female,60,Noida,Uttar Pradesh,2024-04-21 0:00:00,Regular,Organic
+C0026,Customer 26,Male,24,Delhi,DELHI,2025-01-03 0:00:00,Regular,Facebook Ads
+C0027,Customer 27,Male,47,Bengaluru,Karnataka,2024-06-26 0:00:00,Premium,Organic
+C0028,Customer 28,Male,18,Delhi,Delhi,2022-12-07 0:00:00,Regular,Referral
+C0029,Customer 29,Male,43,Bengaluru,Karnataka,2024-02-16 0:00:00,New,Referral
+C0030,Customer 30,Female,47,Gurugram,Haryana,2022-11-14 0:00:00,New,Google Ads
+C0031,Customer 31,Male,55,Noida,Uttar Pradesh,2023-10-05 0:00:00,New,Organic
+C0032,Customer 32,Male,51,Pune,Maharashtra,2023-01-16 0:00:00,New,Organic
+C0033,Customer 33,Male,54,Noida,Uttar Pradesh,2025-06-22 0:00:00,New,Referral
+C0034,Customer 34,Male,38,Pune,Maharashtra,2025-10-03 0:00:00,Premium,Google Ads
+C0035,Customer 35,Female,26,Noida,Uttar Pradesh,2024-07-25 0:00:00,Regular,Organic
+C0036,Customer 36,Male,24,Delhi,Delhi,2024-11-02 0:00:00,Regular,Facebook Ads
+C0037,Customer 37,Male,33,Gurugram,Haryana,2024-06-16 0:00:00,Premium,Google Ads
+C0038,Customer 38,Female,59,Pune,Maharashtra,2025-09-20 0:00:00,New,Facebook Ads
+C0039,Customer 39,Male,24,Gurugram,Haryana,2023-07-12 0:00:00,Regular,Facebook Ads
+C0040,Customer 40,Female,58,Gurugram,Haryana,2023-05-30 0:00:00,New,Organic
+C0041,Customer 41  ,Male,20,Bengaluru,Karnataka,2025-07-28 0:00:00,Regular,Facebook Ads
+C0042,Customer 42,Male,45,Bengaluru,Karnataka,2022-06-04 0:00:00,Premium,Facebook Ads
+C0043,Customer 43,Male,41,Pune,Maharashtra,2024-05-30 0:00:00,New,Organic
+C0044,Customer 44,Male,20,Gurugram,Haryana,2025-10-28 0:00:00,New,Organic
+C0045,Customer 45,Male,44,Gurugram,Haryana,2023-04-30 0:00:00,New,Facebook Ads
+C0046,Customer 46,Female,,Bengaluru,Karnataka,2024-04-23 0:00:00,Premium,Facebook Ads
+C0047,Customer 47,Male,24,Gurugram,Haryana,2024-08-21 0:00:00,New,Facebook Ads
+C0048,Customer 48,Male,32,Bengaluru,Karnataka,2024-03-27 0:00:00,Regular,Google Ads
+C0049,Customer 49,Female,59,Delhi,Delhi,2022-02-26 0:00:00,New,Google Ads
+C0050,Customer 50,Female,34,Noida,Uttar Pradesh,2023-12-09 0:00:00,Premium,Google Ads
+C0051,Customer 51,Male,50,Bengaluru,Karnataka,2023-06-06 0:00:00,New,Referral
+C0052,Customer 52,Female,60,Delhi,Delhi,2022-05-24 0:00:00,Premium,Google Ads
+C0053,Customer 53,Female,25,Pune,Maharashtra,2024-11-04 0:00:00,Regular,Referral
+C0054,Customer 54,Male,36,Gurugram,Haryana,2024-05-11 0:00:00,Premium,Referral
+C0055,Customer 55,Male,37,Noida,Uttar Pradesh,2023-09-15 0:00:00,Regular,Facebook Ads
+C0056,Customer 56,Female,56,Bengaluru,Karnataka,2024-06-23 0:00:00,Regular,Facebook Ads
+C0057,Customer 57,Female,28,Pune,Maharashtra,2024-11-21 0:00:00,Premium,Google Ads
+C0058,Customer 58,Male,37,Delhi,Delhi,2022-10-29 0:00:00,New,Organic
+C0059,Customer 59,Male,57,Noida,Uttar Pradesh,2024-07-21 0:00:00,Regular,Facebook Ads
+C0060,Customer 60,Male,33,Bengaluru,Karnataka,2022-08-07 0:00:00,Regular,Facebook Ads
+C0061,Customer 61,Male,51,Noida,Uttar Pradesh,2022-09-06 0:00:00,Regular,Facebook Ads
+C0062,Customer 62,Female,53,Bengaluru,Karnataka,2025-06-08 0:00:00,Premium,Referral
+C0063,Customer 63,Female,28,Pune,Maharashtra,2024-07-10 0:00:00,Regular,Facebook Ads
+C0064,Customer 64,Male,51,Gurugram,Haryana,2023-07-17 0:00:00,Regular,Organic
+C0065,Customer 65,Male,39,Gurugram,Haryana,2022-10-11 0:00:00,New,Facebook Ads
+C0066,Customer 66,Female,31,Bengaluru,Karnataka,2023-11-09 0:00:00,Premium,Referral
+C0067,Customer 67,Male,44,Bengaluru,Karnataka,2025-03-25 0:00:00,Regular,Referral
+C0068,Customer 68,Female,42,Delhi,Delhi,2025-01-07 0:00:00,Premium,Facebook Ads
+C0069,Customer 69,Female,45,Bengaluru,Karnataka,2023-11-20 0:00:00,Premium,Referral
+C0070,Customer 70,Male,26,Noida,Uttar Pradesh,2024-03-17 0:00:00,Premium,Organic
+C0071,Customer 71,Female,47,Delhi,Delhi,2024-02-16 0:00:00,Regular,Facebook Ads
+C0072,Customer 72,Female,42,Bengaluru,Karnataka,2023-06-01 0:00:00,New,Referral
+C0073,Customer 73,Male,40,Delhi,Delhi,2025-08-27 0:00:00,New,Organic
+C0074,Customer 74,Male,19,Noida,Uttar Pradesh,2022-09-16 0:00:00,Regular,Organic
+C0075,Customer 75,Female,47,Pune,Maharashtra,2022-12-10 0:00:00,Premium,Organic
+C0076,Customer 76,Female,24,Noida,Uttar Pradesh,2025-03-25 0:00:00,Premium,Referral
+C0077,Customer 77,Male,30,Bengaluru,Karnataka,2022-07-28 0:00:00,Premium,Google Ads
+C0078,Customer 78,Female,54,Pune,Maharashtra,2024-12-27 0:00:00,Regular,Google Ads
+C0079,Customer 79,Male,44,Delhi,Delhi,2024-06-06 0:00:00,Regular,Referral
+C0080,Customer 80,Female,51,Noida,Uttar Pradesh,2025-06-15 0:00:00,Premium,Referral
+C0081,Customer 81,Male,55,Bengaluru,Karnataka,2022-06-27 0:00:00,Regular,Referral
+C0082,Customer 82,Female,54,Noida,Uttar Pradesh,2023-11-20 0:00:00,New,Referral
+C0083,Customer 83,Female,31,Gurugram,Haryana,2023-11-29 0:00:00,Regular,Google Ads
+C0084,Customer 84,Male,,Pune,Maharashtra,2023-05-10 0:00:00,Premium,Referral
+C0085,Customer 85,Female,33,Bengaluru,Karnataka,2024-07-06 0:00:00,New,Organic
+C0086,Customer 86,Female,33,Gurugram,Haryana,2024-08-27 0:00:00,Premium,Google Ads
+C0087,Customer 87,Female,53,Bengaluru,Karnataka,2023-07-09 0:00:00,Regular,Google Ads
+C0088,Customer 88,Male,30,Noida,Uttar Pradesh,2023-01-28 0:00:00,New,Referral
+C0089,Customer 89,Male,51,Gurugram,Haryana,2023-02-02 0:00:00,Regular,Facebook Ads
+C0090,Customer 90,Male,18,Gurugram,Haryana,2023-07-16 0:00:00,New,Organic
+C0091,Customer 91,Female,26,Pune,Maharashtra,2022-07-30 0:00:00,New,Google Ads
+C0092,Customer 92,Male,39,Bengaluru,Karnataka,2023-06-02 0:00:00,Regular,Organic
+C0093,Customer 93,Male,58,Delhi,Delhi,2022-11-02 0:00:00,Premium,Google Ads
+C0094,Customer 94,Male,44,Delhi,Delhi,2024-12-06 0:00:00,Regular,Referral
+C0095,Customer 95,Female,55,Bengaluru,Karnataka,2025-03-10 0:00:00,Premium,Organic
+C0096,Customer 96,Male,24,Pune,Maharashtra,2025-07-05 0:00:00,New,Google Ads
+C0097,Customer 97  ,Female,28,Delhi,Delhi,2025-05-01 0:00:00,Regular,Google Ads
+C0098,Customer 98,Male,47,Delhi,DELHI,2023-06-26 0:00:00,Premium,Facebook Ads
+C0099,Customer 99,Female,32,Bengaluru,Karnataka,2022-10-19 0:00:00,New,Organic
+C0100,Customer 100,Female,56,Noida,Uttar Pradesh,2024-06-18 0:00:00,New,Referral
+C0101,Customer 101,Female,35,Gurugram,Haryana,2024-06-15 0:00:00,New,Organic
+C0102,Customer 102,Male,56,Bengaluru,Karnataka,2023-04-14 0:00:00,Premium,Organic
+C0103,Customer 103,Female,29,Gurugram,Haryana,2023-07-24 0:00:00,New,Referral
+C0104,Customer 104,Female,48,Bengaluru,Karnataka,2023-10-20 0:00:00,Premium,Organic
+C0105,Customer 105,Female,49,Noida,Uttar Pradesh,2025-01-31 0:00:00,New,Referral
+C0106,Customer 106,Male,43,Delhi,Delhi,2025-09-08 0:00:00,Premium,Referral
+C0107,Customer 107,Female,51,Bengaluru,Karnataka,2025-07-04 0:00:00,Regular,Organic
+C0108,Customer 108,Female,26,Noida,Uttar Pradesh,2024-09-19 0:00:00,New,Organic
+C0109,Customer 109,Male,28,Pune,Maharashtra,2025-02-05 0:00:00,Regular,Organic
+C0110,Customer 110,Male,25,Noida,Uttar Pradesh,2025-08-19 0:00:00,New,Referral
+C0111,Customer 111,Female,35,Gurugram,Haryana,2024-08-25 0:00:00,New,Referral
+C0112,Customer 112,Male,30,Pune,Maharashtra,2022-05-23 0:00:00,Regular,Referral
+C0113,Customer 113,Male,50,Gurugram,Haryana,2023-08-03 0:00:00,Premium,Google Ads
+C0114,Customer 114,Male,60,Pune,Maharashtra,2024-07-03 0:00:00,Premium,Referral
+C0115,Customer 115,Female,52,Gurugram,Haryana,2023-01-22 0:00:00,Premium,Facebook Ads
+C0116,Customer 116,Female,44,Pune,Maharashtra,2024-02-20 0:00:00,Regular,Facebook Ads
+C0117,Customer 117,Female,26,Bengaluru,Karnataka,2022-07-25 0:00:00,Regular,Organic
+C0118,Customer 118,Female,18,Pune,Maharashtra,2025-09-02 0:00:00,New,Organic
+C0119,Customer 119,Female,34,Bengaluru,Karnataka,2025-08-23 0:00:00,New,Google Ads
+C0120,Customer 120,Female,38,Pune,Maharashtra,2025-01-13 0:00:00,New,Organic
+C0121,Customer 121,Male,36,Noida,Uttar Pradesh,2024-06-07 0:00:00,New,Organic
+C0122,Customer 122,Male,37,Bengaluru,Karnataka,2023-10-27 0:00:00,New,Google Ads
+C0123,Customer 123,Female,27,Gurugram,Haryana,2025-03-05 0:00:00,Premium,Facebook Ads
+C0124,Customer 124,Male,57,Noida,Uttar Pradesh,2024-10-16 0:00:00,Premium,Facebook Ads
+C0125,Customer 125,Male,34,Noida,Uttar Pradesh,2024-08-10 0:00:00,Regular,Facebook Ads
+C0126,Customer 126,Female,55,Delhi,Delhi,2023-05-28 0:00:00,Regular,Google Ads
+C0127,Customer 127,Female,48,Noida,Uttar Pradesh,2025-03-17 0:00:00,Regular,Google Ads
+C0128,Customer 128,Female,,Gurugram,Haryana,2023-07-17 0:00:00,New,Organic
+C0129,Customer 129,Male,36,Pune,Maharashtra,2025-05-28 0:00:00,Regular,Facebook Ads
+C0130,Customer 130,Male,60,Noida,Uttar Pradesh,2025-07-10 0:00:00,New,Organic
+C0131,Customer 131,Male,20,Gurugram,Haryana,2022-07-04 0:00:00,Regular,Google Ads
+C0132,Customer 132,Female,26,Bengaluru,Karnataka,2024-12-23 0:00:00,Premium,Google Ads
+C0133,Customer 133,Female,48,Noida,Uttar Pradesh,2023-11-25 0:00:00,New,Referral
+C0134,Customer 134,Female,43,Delhi,Delhi,2022-07-04 0:00:00,Regular,Organic
+C0135,Customer 135,Female,47,Gurugram,Haryana,2025-04-12 0:00:00,Regular,Google Ads
+C0136,Customer 136,Female,57,Delhi,Delhi,2025-06-03 0:00:00,New,Organic
+C0137,Customer 137,Male,37,Bengaluru,Karnataka,2022-10-14 0:00:00,New,Organic
+C0138,Customer 138,Male,25,Gurugram,Haryana,2024-03-06 0:00:00,Regular,Google Ads
+C0139,Customer 139,Male,27,Pune,Maharashtra,2024-09-29 0:00:00,Premium,Referral
+C0140,Customer 140,Female,41,Gurugram,Haryana,2023-04-29 0:00:00,Regular,Organic
+C0141,Customer 141,Female,59,Gurugram,Haryana,2023-07-20 0:00:00,New,Organic
+C0142,Customer 142,Male,31,Bengaluru,Karnataka,2022-04-14 0:00:00,Regular,Facebook Ads
+C0143,Customer 143,Male,31,Noida,Uttar Pradesh,2025-04-15 0:00:00,New,Facebook Ads
+C0144,Customer 144  ,Male,56,Gurugram,Haryana,2022-09-24 0:00:00,Premium,Google Ads
+C0145,Customer 145,Female,19,Noida,Uttar Pradesh,2023-05-03 0:00:00,Premium,Google Ads
+C0146,Customer 146,Male,44,Delhi,Delhi,2024-09-02 0:00:00,Regular,Google Ads
+C0147,Customer 147,Male,46,Pune,Maharashtra,2025-09-11 0:00:00,Premium,Google Ads
+C0148,Customer 148,Female,19,Bengaluru,Karnataka,2024-04-02 0:00:00,Regular,Organic
+C0149,Customer 149,Male,46,Bengaluru,Karnataka,2023-10-22 0:00:00,Premium,Facebook Ads
+C0150,Customer 150,Female,53,Delhi,DELHI,2025-05-08 0:00:00,Premium,Google Ads
+C0151,Customer 151,Male,45,Bengaluru,Karnataka,2025-09-02 0:00:00,Premium,Facebook Ads
+C0152,Customer 152,Female,32,Bengaluru,Karnataka,2024-03-27 0:00:00,Regular,Organic
+C0153,Customer 153,Male,60,Gurugram,Haryana,2024-08-29 0:00:00,New,Organic
+C0154,Customer 154,Male,41,Delhi,Delhi,2025-04-16 0:00:00,Premium,Google Ads
+C0155,Customer 155,Male,45,Delhi,Delhi,2023-08-13 0:00:00,Premium,Google Ads
+C0156,Customer 156,Female,50,Gurugram,Haryana,2023-04-05 0:00:00,New,Google Ads
+C0157,Customer 157,Female,35,Pune,Maharashtra,2025-02-22 0:00:00,Premium,Organic
+C0158,Customer 158,Female,35,Pune,Maharashtra,2023-09-25 0:00:00,Regular,Google Ads
+C0159,Customer 159,Male,43,Delhi,Delhi,2022-07-07 0:00:00,Premium,Facebook Ads
+C0160,Customer 160,Female,39,Bengaluru,Karnataka,2023-10-27 0:00:00,Premium,Organic
+C0161,Customer 161,Female,23,Delhi,DELHI,2024-09-21 0:00:00,Premium,Referral
+C0162,Customer 162,Female,50,Bengaluru,Karnataka,2022-08-16 0:00:00,Regular,Referral
+C0163,Customer 163,Male,20,Pune,Maharashtra,2022-01-16 0:00:00,New,Google Ads
+C0164,Customer 164,Male,34,Noida,Uttar Pradesh,2022-01-16 0:00:00,Regular,Referral
+C0165,Customer 165,Female,52,Noida,Uttar Pradesh,2022-05-28 0:00:00,Regular,Organic
+C0166,Customer 166,Female,,Bengaluru,Karnataka,2025-03-25 0:00:00,Regular,Referral
+C0167,Customer 167,Female,43,Bengaluru,Karnataka,2022-12-18 0:00:00,Premium,Referral
+C0168,Customer 168,Female,24,Gurugram,Haryana,2024-12-09 0:00:00,New,Referral
+C0169,Customer 169,Male,32,Gurugram,Haryana,2022-06-06 0:00:00,Premium,Organic
+C0170,Customer 170,Male,40,Pune,Maharashtra,2023-04-29 0:00:00,New,Facebook Ads
+C0171,Customer 171,Male,56,Gurugram,Haryana,2022-12-29 0:00:00,Premium,Referral
+C0172,Customer 172,Female,55,Bengaluru,Karnataka,2025-07-08 0:00:00,Regular,Facebook Ads
+C0173,Customer 173,Female,46,Bengaluru,Karnataka,2025-04-26 0:00:00,New,Google Ads
+C0174,Customer 174,Male,47,Pune,Maharashtra,2024-01-26 0:00:00,Regular,Organic
+C0175,Customer 175,Male,47,Delhi,Delhi,2024-07-10 0:00:00,Premium,Facebook Ads
+C0176,Customer 176,Male,50,Gurugram,Haryana,2024-07-11 0:00:00,New,Google Ads
+C0177,Customer 177,Female,33,Delhi,Delhi,2024-12-09 0:00:00,Premium,Facebook Ads
+C0178,Customer 178,Female,36,Gurugram,Haryana,2025-10-22 0:00:00,Premium,Organic
+C0179,Customer 179,Female,24,Gurugram,Haryana,2023-08-05 0:00:00,Regular,Facebook Ads
+C0180,Customer 180,Female,60,Gurugram,Haryana,2023-09-28 0:00:00,Premium,Referral
+C0181,Customer 181,Female,23,Noida,Uttar Pradesh,2025-08-10 0:00:00,Regular,Facebook Ads
+C0182,Customer 182,Female,60,Pune,Maharashtra,2022-02-07 0:00:00,Regular,Google Ads
+C0183,Customer 183,Female,39,Noida,Uttar Pradesh,2023-01-29 0:00:00,New,Facebook Ads
+C0184,Customer 184,Male,24,Noida,Uttar Pradesh,2025-09-17 0:00:00,Regular,Facebook Ads
+C0185,Customer 185,Male,28,Pune,Maharashtra,2024-06-15 0:00:00,New,Referral
+C0186,Customer 186,Female,33,Gurugram,Haryana,2024-07-08 0:00:00,New,Facebook Ads
+C0187,Customer 187,Male,48,Gurugram,Haryana,2024-01-24 0:00:00,Premium,Referral
+C0188,Customer 188,Female,42,Bengaluru,Karnataka,2022-11-28 0:00:00,New,Facebook Ads
+C0189,Customer 189,Male,48,Gurugram,Haryana,2024-11-22 0:00:00,New,Google Ads
+C0190,Customer 190,Female,50,Delhi,Delhi,2022-07-07 0:00:00,New,Referral
+C0191,Customer 191,Female,44,Gurugram,Haryana,2023-04-28 0:00:00,Regular,Organic
+C0192,Customer 192,Female,38,Gurugram,Haryana,2022-10-27 0:00:00,New,Organic
+C0193,Customer 193,Male,48,Gurugram,Haryana,2024-08-18 0:00:00,Regular,Organic
+C0194,Customer 194,Female,53,Delhi,Delhi,2022-08-16 0:00:00,Regular,Facebook Ads
+C0195,Customer 195,Female,33,Gurugram,Haryana,2022-05-09 0:00:00,New,Referral
+C0196,Customer 196,Male,58,Pune,Maharashtra,2022-10-22 0:00:00,Regular,Referral
+C0197,Customer 197,Male,44,Delhi,Delhi,2024-12-08 0:00:00,Regular,Organic
+C0198,Customer 198,Female,50,Pune,Maharashtra,2024-08-20 0:00:00,New,Referral
+C0199,Customer 199,Male,19,Gurugram,Haryana,2023-12-08 0:00:00,New,Organic
+C0200,Customer 200,Female,39,Pune,Maharashtra,2025-01-23 0:00:00,Regular,Facebook Ads
+C0201,Customer 201,Male,48,Bengaluru,Karnataka,2022-05-10 0:00:00,Premium,Referral
+C0202,Customer 202,Female,20,Delhi,Delhi,2024-11-21 0:00:00,Regular,Referral
+C0203,Customer 203,Female,59,Gurugram,Haryana,2022-04-08 0:00:00,Premium,Google Ads
+C0204,Customer 204,Female,41,Gurugram,Haryana,2024-06-19 0:00:00,Regular,Google Ads
+C0205,Customer 205,Female,49,Noida,Uttar Pradesh,2022-06-19 0:00:00,Premium,Referral
+C0206,Customer 206,Female,29,Delhi,Delhi,2022-07-30 0:00:00,New,Google Ads
+C0207,Customer 207,Male,56,Gurugram,Haryana,2024-06-28 0:00:00,Regular,Referral
+C0208,Customer 208,Female,57,Delhi,Delhi,2025-08-02 0:00:00,New,Organic
+C0209,Customer 209,Male,28,Bengaluru,Karnataka,2025-05-29 0:00:00,Premium,Referral
+C0210,Customer 210,Male,41,Delhi,Delhi,2025-05-24 0:00:00,New,Referral
+C0211,Customer 211,Female,22,Gurugram,Haryana,2024-03-26 0:00:00,Regular,Google Ads
+C0212,Customer 212,Female,19,Noida,Uttar Pradesh,2024-11-26 0:00:00,Regular,Organic
+C0213,Customer 213,Female,46,Gurugram,Haryana,2024-10-02 0:00:00,New,Organic
+C0214,Customer 214,Female,46,Noida,Uttar Pradesh,2022-06-29 0:00:00,Premium,Google Ads
+C0215,Customer 215,Female,53,Gurugram,Haryana,2022-11-19 0:00:00,Premium,Facebook Ads
+C0216,Customer 216,Male,25,Gurugram,Haryana,2023-04-30 0:00:00,Regular,Organic
+C0217,Customer 217,Male,41,Gurugram,Haryana,2025-06-07 0:00:00,New,Organic
+C0218,Customer 218,Female,48,Gurugram,Haryana,2025-03-23 0:00:00,New,Facebook Ads
+C0219,Customer 219,Female,46,Gurugram,Haryana,2022-09-20 0:00:00,Premium,Facebook Ads
+C0220,Customer 220,Male,21,Noida,Uttar Pradesh,2023-09-15 0:00:00,New,Facebook Ads
+C0221,Customer 221,Female,32,Gurugram,Haryana,2022-06-11 0:00:00,Regular,Facebook Ads
+C0222,Customer 222,Male,58,Pune,Maharashtra,2024-10-26 0:00:00,Premium,Facebook Ads
+C0223,Customer 223,Female,27,Pune,Maharashtra,2025-02-28 0:00:00,New,Organic
+C0224,Customer 224,Female,34,Delhi,DELHI,2025-06-19 0:00:00,Premium,Organic
+C0225,Customer 225,Female,52,Bengaluru,Karnataka,2024-09-16 0:00:00,New,Referral
+C0226,Customer 226,Female,21,Gurugram,Haryana,2024-09-18 0:00:00,Regular,Facebook Ads
+C0227,Customer 227,Female,38,Gurugram,Haryana,2023-12-09 0:00:00,Regular,Facebook Ads
+C0228,Customer 228,Female,24,Gurugram,Haryana,2022-09-08 0:00:00,Regular,Referral
+C0229,Customer 229,Female,21,Noida,Uttar Pradesh,2025-06-14 0:00:00,Regular,Facebook Ads
+C0230,Customer 230,Male,54,Noida,Uttar Pradesh,2022-11-23 0:00:00,Regular,Referral
+C0231,Customer 231,Female,49,Bengaluru,Karnataka,2024-11-01 0:00:00,Regular,Facebook Ads
+C0232,Customer 232,Female,21,Noida,Uttar Pradesh,2025-05-08 0:00:00,Premium,Referral
+C0233,Customer 233,Female,24,Gurugram,Haryana,2024-01-20 0:00:00,Regular,Google Ads
+C0234,Customer 234,Female,30,Delhi,Delhi,2022-05-31 0:00:00,Regular,Referral
+C0235,Customer 235,Male,57,Pune,Maharashtra,2022-09-21 0:00:00,New,Referral
+C0236,Customer 236,Female,39,Gurugram,Haryana,2022-10-23 0:00:00,New,Referral
+C0237,Customer 237,Female,20,Pune,Maharashtra,2024-08-28 0:00:00,Premium,Referral
+C0238,Customer 238,Female,50,Noida,Uttar Pradesh,2022-11-29 0:00:00,Regular,Google Ads
+C0239,Customer 239,Female,50,Pune,Maharashtra,2024-08-30 0:00:00,New,Google Ads
+C0240,Customer 240,Male,44,Gurugram,Haryana,2025-05-07 0:00:00,Regular,Google Ads
+C0241,Customer 241,Male,21,Pune,Maharashtra,2024-12-09 0:00:00,Premium,Referral
+C0242,Customer 242,Male,33,Noida,Uttar Pradesh,2023-01-26 0:00:00,New,Referral
+C0243,Customer 243,Female,44,Gurugram,Haryana,2024-10-24 0:00:00,Premium,Referral
+C0244,Customer 244,Female,53,Delhi,Delhi,2024-12-12 0:00:00,Regular,Google Ads
+C0245,Customer 245,Female,52,Noida,Uttar Pradesh,2025-10-16 0:00:00,Premium,Google Ads
+C0246,Customer 246,Female,33,Pune,Maharashtra,2023-04-06 0:00:00,Regular,Google Ads
+C0247,Customer 247,Female,49,Noida,Uttar Pradesh,2025-02-21 0:00:00,Premium,Google Ads
+C0248,Customer 248,Female,52,Gurugram,Haryana,2023-12-08 0:00:00,New,Google Ads
+C0249,Customer 249,Female,46,Delhi,DELHI,2023-03-15 0:00:00,New,Google Ads
+C0250,Customer 250,Male,26,Pune,Maharashtra,2023-05-12 0:00:00,New,Facebook Ads
+C0251,Customer 251,Female,44,Noida,Uttar Pradesh,2022-07-25 0:00:00,Premium,Facebook Ads
+C0252,Customer 252,Female,28,Delhi,Delhi,2024-09-04 0:00:00,Premium,Facebook Ads
+C0253,Customer 253,Male,59,Gurugram,Haryana,2025-08-28 0:00:00,Premium,Facebook Ads
+C0254,Customer 254,Male,20,Pune,Maharashtra,2024-05-05 0:00:00,New,Organic
+C0255,Customer 255,Female,29,Bengaluru,Karnataka,2022-03-18 0:00:00,New,Google Ads
+C0256,Customer 256,Female,39,Pune,Maharashtra,2022-10-02 0:00:00,Premium,Referral
+C0257,Customer 257,Female,25,Gurugram,Haryana,2025-08-20 0:00:00,Regular,Facebook Ads
+C0258,Customer 258,Male,54,Delhi,Delhi,2022-12-26 0:00:00,Premium,Referral
+C0259,Customer 259,Male,23,Bengaluru,Karnataka,2023-01-14 0:00:00,New,Referral
+C0260,Customer 260,Male,18,Gurugram,Haryana,2024-07-03 0:00:00,Regular,Google Ads
+C0261,Customer 261  ,Female,54,Gurugram,Haryana,2023-04-29 0:00:00,New,Organic
+C0262,Customer 262,Female,43,Bengaluru,Karnataka,2022-08-29 0:00:00,Premium,Google Ads
+C0263,Customer 263,Female,32,Gurugram,Haryana,2022-11-10 0:00:00,Regular,Google Ads
+C0264,Customer 264,Male,48,Bengaluru,Karnataka,2023-05-22 0:00:00,Premium,Organic
+C0265,Customer 265,Male,41,Pune,Maharashtra,2022-05-07 0:00:00,Premium,Facebook Ads
+C0266,Customer 266,Female,28,Pune,Maharashtra,2022-08-27 0:00:00,Premium,Facebook Ads
+C0267,Customer 267,Male,50,Pune,Maharashtra,2024-07-17 0:00:00,New,Referral
+C0268,Customer 268,Female,53,Bengaluru,Karnataka,2022-02-14 0:00:00,Regular,Google Ads
+C0269,Customer 269,Male,20,Delhi,Delhi,2025-01-13 0:00:00,New,Organic
+C0270,Customer 270,Male,44,Bengaluru,Karnataka,2025-08-06 0:00:00,Premium,Referral
+C0271,Customer 271,Female,42,Gurugram,Haryana,2024-02-09 0:00:00,New,Facebook Ads
+C0272,Customer 272,Male,52,Gurugram,Haryana,2023-04-02 0:00:00,New,Organic
+C0273,Customer 273,Female,52,Gurugram,Haryana,2023-04-16 0:00:00,New,Referral
+C0274,Customer 274,Male,30,Gurugram,Haryana,2022-03-07 0:00:00,Premium,Referral
+C0275,Customer 275,Male,19,Pune,Maharashtra,2022-07-26 0:00:00,Premium,Organic
+C0276,Customer 276,Male,21,Bengaluru,Karnataka,2024-04-03 0:00:00,Regular,Facebook Ads
+C0277,Customer 277,Female,21,Pune,Maharashtra,2023-04-25 0:00:00,Premium,Google Ads
+C0278,Customer 278,Male,38,Pune,Maharashtra,2025-09-14 0:00:00,Premium,Facebook Ads
+C0279,Customer 279,Male,21,Bengaluru,Karnataka,2025-07-06 0:00:00,Premium,Referral
+C0280,Customer 280,Female,40,Pune,Maharashtra,2024-12-10 0:00:00,Regular,Referral
+C0281,Customer 281,Female,42,Bengaluru,Karnataka,2023-05-09 0:00:00,New,Google Ads
+C0282,Customer 282,Female,21,Noida,Uttar Pradesh,2025-02-15 0:00:00,Premium,Facebook Ads
+C0283,Customer 283,Male,31,Bengaluru,Karnataka,2024-07-10 0:00:00,Regular,Organic
+C0284,Customer 284,Female,30,Pune,Maharashtra,2025-10-11 0:00:00,Premium,Organic
+C0285,Customer 285,Male,53,Delhi,DELHI,2023-11-13 0:00:00,Regular,Organic
+C0286,Customer 286,Female,25,Noida,Uttar Pradesh,2023-05-12 0:00:00,Premium,Facebook Ads
+C0287,Customer 287,Female,53,Bengaluru,Karnataka,2024-02-19 0:00:00,Regular,Google Ads
+C0288,Customer 288,Female,50,Gurugram,Haryana,2022-07-21 0:00:00,Premium,Referral
+C0289,Customer 289,Male,41,Gurugram,Haryana,2025-02-26 0:00:00,New,Facebook Ads
+C0290,Customer 290,Male,44,Delhi,DELHI,2023-11-07 0:00:00,New,Referral
+C0291,Customer 291,Female,49,Pune,Maharashtra,2023-06-12 0:00:00,Regular,Referral
+C0292,Customer 292,Female,40,Bengaluru,Karnataka,2023-01-12 0:00:00,Premium,Organic
+C0293,Customer 293,Male,22,Pune,Maharashtra,2022-01-14 0:00:00,Regular,Facebook Ads
+C0294,Customer 294  ,Female,27,Noida,Uttar Pradesh,2024-02-04 0:00:00,New,Referral
+C0295,Customer 295,Female,,Bengaluru,Karnataka,2022-01-25 0:00:00,New,Google Ads
+C0296,Customer 296,Female,19,Pune,Maharashtra,2023-01-03 0:00:00,New,Organic
+C0297,Customer 297,Female,30,Pune,Maharashtra,2023-12-27 0:00:00,Regular,Referral
+C0298,Customer 298,Male,54,Delhi,Delhi,2023-09-07 0:00:00,Premium,Organic
+C0299,Customer 299,Male,48,Delhi,delhi,2022-12-17 0:00:00,New,Referral
+C0300,Customer 300,Male,39,Bengaluru,Karnataka,2024-12-17 0:00:00,New,Facebook Ads
+C0301,Customer 301,Male,54,Noida,Uttar Pradesh,2022-06-02 0:00:00,Premium,Google Ads
+C0302,Customer 302,Female,20,Pune,Maharashtra,2022-02-02 0:00:00,New,Facebook Ads
+C0303,Customer 303,Male,37,Bengaluru,Karnataka,2025-03-06 0:00:00,Regular,Google Ads
+C0304,Customer 304,Male,26,Bengaluru,Karnataka,2024-10-22 0:00:00,Premium,Google Ads
+C0305,Customer 305,Female,39,Delhi,Delhi,2023-10-31 0:00:00,New,Google Ads
+C0306,Customer 306,Female,40,Bengaluru,Karnataka,2024-06-03 0:00:00,New,Referral
+C0307,Customer 307,Male,33,Delhi,Delhi,2023-07-03 0:00:00,New,Referral
+C0308,Customer 308,Male,38,Noida,Uttar Pradesh,2022-01-11 0:00:00,Regular,Referral
+C0309,Customer 309,Male,24,Gurugram,Haryana,2024-06-01 0:00:00,Regular,Referral
+C0310,Customer 310,Female,56,Delhi,delhi,2024-02-28 0:00:00,New,Google Ads
+C0311,Customer 311,Male,23,Bengaluru,Karnataka,2025-03-17 0:00:00,Premium,Facebook Ads
+C0312,Customer 312,Female,35,Bengaluru,Karnataka,2022-10-26 0:00:00,New,Facebook Ads
+C0313,Customer 313,Male,37,Bengaluru,Karnataka,2024-01-10 0:00:00,Regular,Facebook Ads
+C0314,Customer 314,Male,30,Bengaluru,Karnataka,2023-09-16 0:00:00,New,Referral
+C0315,Customer 315,Female,42,Gurugram,Haryana,2024-06-20 0:00:00,Regular,Referral
+C0316,Customer 316,Male,38,Pune,Maharashtra,2024-09-08 0:00:00,Regular,Facebook Ads
+C0317,Customer 317,Female,36,Bengaluru,Karnataka,2025-03-25 0:00:00,New,Google Ads
+C0318,Customer 318,Male,43,Bengaluru,Karnataka,2025-04-27 0:00:00,Premium,Facebook Ads
+C0319,Customer 319,Male,,Pune,Maharashtra,2024-06-16 0:00:00,Regular,Organic
+C0320,Customer 320,Male,26,Bengaluru,Karnataka,2023-06-02 0:00:00,Premium,Facebook Ads
+C0321,Customer 321,Female,22,Bengaluru,Karnataka,2025-04-07 0:00:00,Regular,Referral
+C0322,Customer 322,Male,41,Pune,Maharashtra,2022-08-12 0:00:00,New,Google Ads
+C0323,Customer 323,Female,20,Noida,Uttar Pradesh,2023-11-11 0:00:00,Regular,Organic
+C0324,Customer 324,Male,51,Delhi,Delhi,2024-07-01 0:00:00,Regular,Referral
+C0325,Customer 325,Male,55,Bengaluru,Karnataka,2023-12-08 0:00:00,New,Referral
+C0326,Customer 326,Female,27,Delhi,Delhi,2024-07-21 0:00:00,New,Referral
+C0327,Customer 327,Female,46,Gurugram,Haryana,2023-10-16 0:00:00,New,Google Ads
+C0328,Customer 328,Male,39,Delhi,Delhi,2023-05-15 0:00:00,Premium,Facebook Ads
+C0329,Customer 329,Female,53,Pune,Maharashtra,2023-04-20 0:00:00,Regular,Facebook Ads
+C0330,Customer 330,Male,45,Noida,Uttar Pradesh,2024-07-09 0:00:00,Premium,Referral
+C0331,Customer 331,Female,,Bengaluru,Karnataka,2022-05-09 0:00:00,Premium,Organic
+C0332,Customer 332,Male,38,Pune,Maharashtra,2023-06-22 0:00:00,Premium,Referral
+C0333,Customer 333,Female,38,Pune,Maharashtra,2025-04-17 0:00:00,New,Google Ads
+C0334,Customer 334,Female,57,Gurugram,Haryana,2025-06-12 0:00:00,Premium,Organic
+C0335,Customer 335,Male,33,Noida,Uttar Pradesh,2024-02-04 0:00:00,Premium,Facebook Ads
+C0336,Customer 336,Female,56,Pune,Maharashtra,2024-05-16 0:00:00,New,Referral
+C0337,Customer 337,Male,59,Pune,Maharashtra,2025-02-10 0:00:00,New,Referral
+C0338,Customer 338,Male,38,Gurugram,Haryana,2024-01-06 0:00:00,New,Referral
+C0339,Customer 339,Female,42,Noida,Uttar Pradesh,2024-04-17 0:00:00,Premium,Referral
+C0340,Customer 340,Male,46,Bengaluru,Karnataka,2025-03-03 0:00:00,New,Facebook Ads
+C0341,Customer 341,Male,32,Gurugram,Haryana,2024-07-25 0:00:00,Premium,Referral
+C0342,Customer 342,Female,54,Pune,Maharashtra,2025-01-15 0:00:00,New,Referral
+C0343,Customer 343,Male,45,Pune,Maharashtra,2023-09-02 0:00:00,New,Referral
+C0344,Customer 344,Male,23,Gurugram,Haryana,2023-05-01 0:00:00,New,Google Ads
+C0345,Customer 345,Male,28,Pune,Maharashtra,2023-02-28 0:00:00,New,Google Ads
+C0346,Customer 346,Female,52,Pune,Maharashtra,2023-08-16 0:00:00,Premium,Google Ads
+C0347,Customer 347,Female,24,Pune,Maharashtra,2022-05-02 0:00:00,Regular,Facebook Ads
+C0348,Customer 348,Female,38,Noida,Uttar Pradesh,2024-09-29 0:00:00,New,Google Ads
+C0349,Customer 349,Male,22,Bengaluru,Karnataka,2024-04-05 0:00:00,Premium,Google Ads
+C0350,Customer 350,Male,49,Gurugram,Haryana,2022-07-10 0:00:00,Premium,Referral
+C0351,Customer 351,Female,52,Gurugram,Haryana,2023-03-10 0:00:00,Regular,Google Ads
+C0352,Customer 352,Male,39,Gurugram,Haryana,2025-03-05 0:00:00,Regular,Google Ads
+C0353,Customer 353  ,Male,47,Delhi,DELHI,2024-06-22 0:00:00,Regular,Organic
+C0354,Customer 354,Female,26,Bengaluru,Karnataka,2022-11-22 0:00:00,Regular,Organic
+C0355,Customer 355,Male,41,Gurugram,Haryana,2022-04-17 0:00:00,Regular,Google Ads
+C0356,Customer 356,Male,23,Noida,Uttar Pradesh,2023-03-14 0:00:00,Regular,Organic
+C0357,Customer 357,Male,51,Noida,Uttar Pradesh,2022-01-17 0:00:00,Premium,Google Ads
+C0358,Customer 358,Male,26,Delhi,Delhi,2024-02-24 0:00:00,New,Organic
+C0359,Customer 359,Male,26,Delhi,Delhi,2025-08-06 0:00:00,Premium,Facebook Ads
+C0360,Customer 360,Female,,Delhi,Delhi,2023-12-21 0:00:00,Premium,Facebook Ads
+C0361,Customer 361,Male,57,Noida,Uttar Pradesh,2022-06-27 0:00:00,New,Facebook Ads
+C0362,Customer 362,Male,45,Delhi,Delhi,2023-05-23 0:00:00,Regular,Organic
+C0363,Customer 363,Female,56,Noida,Uttar Pradesh,2022-02-24 0:00:00,Premium,Google Ads
+C0364,Customer 364,Female,50,Noida,Uttar Pradesh,2023-08-29 0:00:00,Premium,Organic
+C0365,Customer 365,Male,25,Noida,Uttar Pradesh,2024-12-17 0:00:00,New,Google Ads
+C0366,Customer 366,Male,54,Gurugram,Haryana,2024-08-22 0:00:00,New,Organic
+C0367,Customer 367,Male,34,Pune,Maharashtra,2024-03-26 0:00:00,Premium,Google Ads
+C0368,Customer 368,Male,45,Pune,Maharashtra,2025-08-04 0:00:00,Premium,Facebook Ads
+C0369,Customer 369,Male,23,Gurugram,Haryana,2022-11-15 0:00:00,Premium,Google Ads
+C0370,Customer 370,Male,59,Bengaluru,Karnataka,2023-09-28 0:00:00,Premium,Referral
+C0371,Customer 371,Male,23,Noida,Uttar Pradesh,2024-07-17 0:00:00,Premium,Organic
+C0372,Customer 372,Male,60,Gurugram,Haryana,2022-01-26 0:00:00,Premium,Facebook Ads
+C0373,Customer 373,Male,34,Delhi,delhi,2023-07-05 0:00:00,Premium,Organic
+C0374,Customer 374,Male,51,Delhi,Delhi,2024-10-13 0:00:00,Regular,Google Ads
+C0375,Customer 375,Male,41,Delhi,Delhi,2025-03-21 0:00:00,Premium,Organic
+C0376,Customer 376,Male,18,Noida,Uttar Pradesh,2023-05-16 0:00:00,New,Referral
+C0377,Customer 377,Male,27,Gurugram,Haryana,2025-02-06 0:00:00,Premium,Referral
+C0378,Customer 378,Female,44,Noida,Uttar Pradesh,2023-07-10 0:00:00,New,Google Ads
+C0379,Customer 379,Male,29,Delhi,Delhi,2024-04-01 0:00:00,New,Referral
+C0380,Customer 380,Female,37,Gurugram,Haryana,2022-01-17 0:00:00,Regular,Facebook Ads
+C0381,Customer 381,Male,37,Gurugram,Haryana,2024-08-08 0:00:00,Regular,Referral
+C0382,Customer 382,Male,52,Noida,Uttar Pradesh,2022-11-05 0:00:00,New,Referral
+C0383,Customer 383,Male,18,Delhi,delhi,2025-09-08 0:00:00,Regular,Google Ads
+C0384,Customer 384,Male,21,Delhi,Delhi,2023-07-28 0:00:00,New,Organic
+C0385,Customer 385,Female,51,Noida,Uttar Pradesh,2024-07-27 0:00:00,Premium,Organic
+C0386,Customer 386,Female,26,Pune,Maharashtra,2022-06-03 0:00:00,Premium,Organic
+C0387,Customer 387,Female,26,Bengaluru,Karnataka,2023-10-08 0:00:00,Regular,Google Ads
+C0388,Customer 388,Male,32,Gurugram,Haryana,2022-10-06 0:00:00,Premium,Organic
+C0389,Customer 389,Female,46,Noida,Uttar Pradesh,2022-09-05 0:00:00,Premium,Google Ads
+C0390,Customer 390,Male,47,Noida,Uttar Pradesh,2022-07-05 0:00:00,New,Google Ads
+C0391,Customer 391,Male,38,Pune,Maharashtra,2023-12-30 0:00:00,Regular,Organic
+C0392,Customer 392,Female,29,Gurugram,Haryana,2024-07-15 0:00:00,Premium,Facebook Ads
+C0393,Customer 393,Male,26,Delhi,Delhi,2023-04-01 0:00:00,New,Facebook Ads
+C0394,Customer 394,Male,58,Bengaluru,Karnataka,2025-04-07 0:00:00,Premium,Google Ads
+C0395,Customer 395,Male,59,Delhi,Delhi,2022-07-08 0:00:00,Regular,Organic
+C0396,Customer 396,Female,54,Delhi,Delhi,2024-10-13 0:00:00,New,Referral
+C0397,Customer 397,Female,31,Bengaluru,Karnataka,2023-07-28 0:00:00,Regular,Facebook Ads
+C0398,Customer 398,Female,59,Delhi,Delhi,2025-02-01 0:00:00,Regular,Organic
+C0399,Customer 399,Male,59,Delhi,Delhi,2025-07-15 0:00:00,Premium,Organic
+C0400,Customer 400,Female,40,Bengaluru,Karnataka,2023-12-06 0:00:00,Premium,Google Ads
+C0401,Customer 401,Male,19,Bengaluru,Karnataka,2022-03-02 0:00:00,Regular,Organic
+C0402,Customer 402,Male,55,Bengaluru,Karnataka,2022-07-25 0:00:00,New,Facebook Ads
+C0403,Customer 403,Male,21,Gurugram,Haryana,2025-03-25 0:00:00,Regular,Google Ads
+C0404,Customer 404,Female,55,Noida,Uttar Pradesh,2025-04-26 0:00:00,New,Google Ads
+C0405,Customer 405,Female,54,Pune,Maharashtra,2025-01-15 0:00:00,Regular,Facebook Ads
+C0406,Customer 406,Male,21,Bengaluru,Karnataka,2022-02-10 0:00:00,Premium,Referral
+C0407,Customer 407,Male,26,Delhi,Delhi,2023-10-25 0:00:00,New,Organic
+C0408,Customer 408,Female,27,Noida,Uttar Pradesh,2022-05-29 0:00:00,Regular,Referral
+C0409,Customer 409,Male,37,Pune,Maharashtra,2024-06-13 0:00:00,Premium,Referral
+C0410,Customer 410,Female,53,Gurugram,Haryana,2023-04-03 0:00:00,Premium,Facebook Ads
+C0411,Customer 411,Male,36,Bengaluru,Karnataka,2025-03-19 0:00:00,Regular,Organic
+C0412,Customer 412,Male,57,Noida,Uttar Pradesh,2024-10-13 0:00:00,New,Google Ads
+C0413,Customer 413,Female,23,Delhi,delhi,2024-07-03 0:00:00,New,Google Ads
+C0414,Customer 414,Male,22,Noida,Uttar Pradesh,2022-01-03 0:00:00,New,Referral
+C0415,Customer 415,Female,28,Bengaluru,Karnataka,2024-02-15 0:00:00,Regular,Referral
+C0416,Customer 416,Male,54,Delhi,Delhi,2022-11-30 0:00:00,Regular,Organic
+C0417,Customer 417,Male,24,Delhi,delhi,2024-02-08 0:00:00,New,Organic
+C0418,Customer 418,Female,23,Pune,Maharashtra,2022-03-05 0:00:00,Regular,Facebook Ads
+C0419,Customer 419,Female,28,Pune,Maharashtra,2023-02-25 0:00:00,New,Referral
+C0420,Customer 420,Female,52,Pune,Maharashtra,2023-09-02 0:00:00,New,Organic
+C0421,Customer 421,Female,49,Delhi,Delhi,2022-01-08 0:00:00,Regular,Organic
+C0422,Customer 422,Male,58,Gurugram,Haryana,2022-07-18 0:00:00,New,Facebook Ads
+C0423,Customer 423,Male,23,Noida,Uttar Pradesh,2023-09-24 0:00:00,Regular,Referral
+C0424,Customer 424,Female,34,Bengaluru,Karnataka,2023-01-14 0:00:00,Regular,Referral
+C0425,Customer 425,Female,20,Gurugram,Haryana,2023-06-24 0:00:00,New,Google Ads
+C0426,Customer 426,Female,60,Pune,Maharashtra,2025-01-13 0:00:00,Regular,Facebook Ads
+C0427,Customer 427,Female,42,Pune,Maharashtra,2025-01-01 0:00:00,Premium,Referral
+C0428,Customer 428,Female,48,Pune,Maharashtra,2022-03-13 0:00:00,Premium,Facebook Ads
+C0429,Customer 429,Male,28,Delhi,Delhi,2022-09-16 0:00:00,New,Referral
+C0430,Customer 430,Female,58,Delhi,Delhi,2023-10-17 0:00:00,Premium,Organic
+C0431,Customer 431,Female,38,Delhi,Delhi,2022-01-26 0:00:00,Premium,Referral
+C0432,Customer 432,Male,55,Delhi,Delhi,2022-08-05 0:00:00,Premium,Organic
+C0433,Customer 433,Female,40,Gurugram,Haryana,2024-02-24 0:00:00,Premium,Referral
+C0434,Customer 434,Female,20,Pune,Maharashtra,2022-10-22 0:00:00,Premium,Referral
+C0435,Customer 435,Female,33,Delhi,Delhi,2023-07-05 0:00:00,Regular,Organic
+C0436,Customer 436,Female,37,Gurugram,Haryana,2022-07-21 0:00:00,New,Facebook Ads
+C0437,Customer 437,Female,46,Gurugram,Haryana,2023-07-06 0:00:00,Premium,Referral
+C0438,Customer 438,Female,30,Pune,Maharashtra,2024-09-19 0:00:00,Premium,Google Ads
+C0439,Customer 439,Female,37,Delhi,Delhi,2022-10-05 0:00:00,Premium,Organic
+C0440,Customer 440,Male,30,Noida,Uttar Pradesh,2022-03-09 0:00:00,Regular,Organic
+C0441,Customer 441,Female,35,Gurugram,Haryana,2024-10-31 0:00:00,Regular,Organic
+C0442,Customer 442,Female,29,Delhi,delhi,2025-04-16 0:00:00,Premium,Google Ads
+C0443,Customer 443,Male,34,Gurugram,Haryana,2023-08-07 0:00:00,New,Referral
+C0444,Customer 444,Male,31,Delhi,DELHI,2025-10-19 0:00:00,New,Google Ads
+C0445,Customer 445,Male,18,Bengaluru,Karnataka,2025-08-18 0:00:00,New,Organic
+C0446,Customer 446,Female,37,Noida,Uttar Pradesh,2024-05-17 0:00:00,Regular,Google Ads
+C0447,Customer 447,Female,47,Bengaluru,Karnataka,2025-04-12 0:00:00,New,Organic
+C0448,Customer 448,Female,41,Pune,Maharashtra,2023-09-04 0:00:00,Premium,Organic
+C0449,Customer 449,Female,35,Bengaluru,Karnataka,2023-06-19 0:00:00,Premium,Google Ads
+C0450,Customer 450,Female,33,Noida,Uttar Pradesh,2025-09-14 0:00:00,Regular,Facebook Ads
+C0451,Customer 451,Female,34,Delhi,Delhi,2024-03-06 0:00:00,Premium,Organic
+C0452,Customer 452,Female,54,Pune,Maharashtra,2023-04-01 0:00:00,Premium,Referral
+C0453,Customer 453,Male,28,Gurugram,Haryana,2023-08-25 0:00:00,New,Referral
+C0454,Customer 454,Male,53,Noida,Uttar Pradesh,2025-10-24 0:00:00,Regular,Organic
+C0455,Customer 455,Female,37,Noida,Uttar Pradesh,2024-02-01 0:00:00,Regular,Google Ads
+C0456,Customer 456,Male,48,Bengaluru,Karnataka,2024-08-25 0:00:00,New,Organic
+C0457,Customer 457,Male,44,Bengaluru,Karnataka,2022-10-09 0:00:00,New,Google Ads
+C0458,Customer 458,Male,47,Bengaluru,Karnataka,2022-06-15 0:00:00,Regular,Google Ads
+C0459,Customer 459  ,Female,21,Noida,Uttar Pradesh,2023-03-05 0:00:00,New,Facebook Ads
+C0460,Customer 460,Female,23,Bengaluru,Karnataka,2025-07-21 0:00:00,Regular,Referral
+C0461,Customer 461  ,Male,42,Bengaluru,Karnataka,2024-02-04 0:00:00,New,Google Ads
+C0462,Customer 462,Male,18,Pune,Maharashtra,2023-04-09 0:00:00,Premium,Google Ads
+C0463,Customer 463,Female,42,Gurugram,Haryana,2022-12-09 0:00:00,New,Organic
+C0464,Customer 464,Female,47,Gurugram,Haryana,2024-06-07 0:00:00,Premium,Facebook Ads
+C0465,Customer 465,Male,49,Gurugram,Haryana,2022-12-04 0:00:00,Regular,Organic
+C0466,Customer 466,Male,26,Noida,Uttar Pradesh,2025-04-22 0:00:00,Premium,Facebook Ads
+C0467,Customer 467,Female,20,Delhi,Delhi,2024-12-31 0:00:00,Premium,Organic
+C0468,Customer 468,Male,60,Pune,Maharashtra,2022-04-09 0:00:00,Premium,Organic
+C0469,Customer 469,Female,25,Bengaluru,Karnataka,2022-11-10 0:00:00,New,Organic
+C0470,Customer 470,Female,24,Gurugram,Haryana,2025-06-29 0:00:00,Premium,Facebook Ads
+C0471,Customer 471,Male,24,Bengaluru,Karnataka,2023-08-02 0:00:00,New,Organic
+C0472,Customer 472,Male,30,Bengaluru,Karnataka,2024-01-04 0:00:00,Premium,Referral
+C0473,Customer 473,Male,53,Gurugram,Haryana,2024-09-11 0:00:00,Regular,Facebook Ads
+C0474,Customer 474,Male,54,Delhi,Delhi,2022-07-04 0:00:00,Premium,Organic
+C0475,Customer 475,Female,47,Delhi,Delhi,2023-06-25 0:00:00,Regular,Organic
+C0476,Customer 476,Female,36,Delhi,Delhi,2024-05-22 0:00:00,Premium,Organic
+C0477,Customer 477,Male,18,Delhi,Delhi,2023-11-05 0:00:00,Regular,Referral
+C0478,Customer 478,Female,23,Pune,Maharashtra,2023-01-10 0:00:00,New,Referral
+C0479,Customer 479,Female,35,Bengaluru,Karnataka,2024-05-13 0:00:00,Premium,Facebook Ads
+C0480,Customer 480,Female,28,Delhi,DELHI,2025-03-11 0:00:00,Premium,Referral
+C0481,Customer 481,Male,40,Noida,Uttar Pradesh,2024-09-16 0:00:00,Regular,Organic
+C0482,Customer 482,Female,22,Bengaluru,Karnataka,2022-01-26 0:00:00,Premium,Facebook Ads
+C0483,Customer 483,Male,57,Gurugram,Haryana,2024-09-13 0:00:00,Regular,Referral
+C0484,Customer 484,Male,53,Noida,Uttar Pradesh,2022-01-24 0:00:00,Premium,Facebook Ads
+C0485,Customer 485,Male,49,Pune,Maharashtra,2024-10-03 0:00:00,Regular,Facebook Ads
+C0486,Customer 486,Female,21,Gurugram,Haryana,2024-04-05 0:00:00,New,Organic
+C0487,Customer 487,Female,54,Bengaluru,Karnataka,2024-07-04 0:00:00,Regular,Organic
+C0488,Customer 488,Female,19,Bengaluru,Karnataka,2022-03-15 0:00:00,Premium,Organic
+C0489,Customer 489,Male,58,Delhi,Delhi,2025-09-02 0:00:00,Premium,Referral
+C0490,Customer 490,Female,21,Gurugram,Haryana,2023-11-11 0:00:00,Premium,Referral
+C0491,Customer 491,Male,25,Gurugram,Haryana,2022-01-05 0:00:00,Regular,Google Ads
+C0492,Customer 492,Male,41,Gurugram,Haryana,2022-12-03 0:00:00,Regular,Facebook Ads
+C0493,Customer 493,Male,57,Bengaluru,Karnataka,2024-03-15 0:00:00,New,Referral
+C0494,Customer 494,Male,24,Noida,Uttar Pradesh,2025-07-20 0:00:00,Premium,Organic
+C0495,Customer 495,Male,55,Bengaluru,Karnataka,2024-10-18 0:00:00,New,Organic
+C0496,Customer 496,Male,55,Pune,Maharashtra,2025-03-30 0:00:00,New,Facebook Ads
+C0497,Customer 497,Female,38,Delhi,Delhi,2024-05-07 0:00:00,Premium,Facebook Ads
+C0498,Customer 498,Female,39,Gurugram,Haryana,2022-10-01 0:00:00,New,Referral
+C0499,Customer 499,Female,50,Pune,Maharashtra,2025-02-07 0:00:00,Premium,Facebook Ads
+C0500,Customer 500,Male,36,Noida,Uttar Pradesh,2025-08-24 0:00:00,New,Google Ads
