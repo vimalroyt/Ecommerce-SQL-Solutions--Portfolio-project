@@ -9,7 +9,7 @@ In this project, I moved beyond simple SQL queries and focused on solving real-w
 🔹 Business Performance Monitoring – Determined high-performing months and cities contributing above-average revenue.
 🔹 Data Maintenance Use Cases – Implemented SQL solutions for updating customer segments, maintaining history tables, and removing inactive records.
 
-🛠️ SQL Concepts Used:
+## SQL Concepts Used:
 1. CTEs
 2. Window Functions
 3. Subqueries
